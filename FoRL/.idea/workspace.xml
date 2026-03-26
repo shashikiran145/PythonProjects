@@ -5,19 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="814b78f0-eb2c-4953-9c1e-dbb82d964967" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonProjects/Random/.idea/Random.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProjects/Random/.idea/Random.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonProjects/Random/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProjects/Random/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonProjects/Random/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProjects/Random/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonProjects/Random/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProjects/Random/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonProjects/day_29_pw_manager/.idea/day_29_pw_manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProjects/day_29_pw_manager/.idea/day_29_pw_manager.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonProjects/day_29_pw_manager/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProjects/day_29_pw_manager/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonProjects/day_29_pw_manager/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProjects/day_29_pw_manager/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartpole_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FoRL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FoRL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -29,7 +32,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Playground/python_play/FoRL"
   }
 }]]></component>
   <component name="RunManager">
