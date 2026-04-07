@@ -14,7 +14,7 @@ def rand_softmax(z, N):
     return samples, probs
 
 z = np.arange(1,11)
-N = 10000
+N = 100
 
 samples, true_probs = rand_softmax(z, N)
 
